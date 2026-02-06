@@ -1,0 +1,23 @@
+export const nameBand = 'NEW FOUND GLORY';
+export let nameSongs = [
+	"MY FRIENDS OVER YOU", /*1*/
+	"ALL DOWNHILL FROM HERE", /*2*/
+	"HIT OR MISS", /*3*/
+	"HEAD ON COLLISION", /*4*/
+	"IT'S NOT YOUR FAULT", /*5*/
+	"UNDERSTATEMENT", /*6*/
+	"SONNY", /*7*/
+	"BETTER OFF DEAD", /*8*/
+	"DRESSED TO KILL", /*9*/
+	"LISTEN TO YOUR FRIENDS", /*10*/
+	"ALL ABOUT HER", /*11*/
+	"SOMETHING I CALL PERSONALITY", /*12*/
+	"I DON'T WANNA KNOW", /*13*/
+	"FORGET MY NAME", /*14*/
+	"READY AND WILLING", /*15*/
+	"ANTHEM FOR THE UNWANTED", /*16*/
+	"TRUTH OF MY YOUTH", /*17*/
+	"THE GLORY OF LOVE", /*18*/
+	"SINCERELY ME", /*19*/
+	"HOLD MY HAND", /*20*/
+]
